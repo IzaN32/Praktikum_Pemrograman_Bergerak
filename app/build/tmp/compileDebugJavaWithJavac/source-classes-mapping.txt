@@ -1,0 +1,2 @@
+id/Zein_19104006/myfirstapp/BuildConfig.java
+ id.Zein_19104006.myfirstapp.BuildConfig
